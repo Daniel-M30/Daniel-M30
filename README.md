@@ -1,57 +1,34 @@
 # Olá, eu sou Daniel Monteiro! 👋
 
-### Desenvolvedor Full Stack
+**Desenvolvedor Full Stack · React · TypeScript · Node.js**
 
-Desenvolvo aplicações web, interfaces interativas e integrações com APIs, utilizando principalmente **React, TypeScript e Node.js**.
+Desenvolvo aplicações web, interfaces e integrações com APIs. Aqui compartilho projetos de front-end e back-end, com documentação e código para explorar.
 
-Este GitHub reúne projetos que demonstram minhas experiências com desenvolvimento front-end, back-end, integração de serviços e construção de soluções web.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvalerio-monteiro)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dvalerio.monteiro@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvalerio-monteiro)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dvalerio.monteiro@gmail.com)
+## 🛠️ Tecnologias
 
----
+**Principais**
 
-## 🛠️ Tecnologias e ferramentas
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**Principais tecnologias**
+**Também utilizo**
 
-![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Outras tecnologias utilizadas nos projetos**
+## 🚀 Projetos selecionados
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- **[Haras Hub](https://github.com/Daniel-M30/haras-hub)** — Catálogo de animais com painel administrativo (*em evolução*).
+- **[Image Uploader](https://github.com/Daniel-M30/image-uploader) + [API](https://github.com/Daniel-M30/image-uploader-api)** — Upload de imagens integrado ao Google Cloud Storage.
+- **[World Ranks](https://github.com/Daniel-M30/world-ranks)** — Exploração de países com busca, filtros e API.
+- **[Coffee Listing](https://github.com/Daniel-M30/coffee-listing)** — Catálogo de cafés com filtro de disponibilidade.
 
----
-
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-| --- | --- | --- |
-| [Haras Hub](https://github.com/Daniel-M30/haras-hub) | Catálogo de animais com filtros, páginas de detalhes e painel administrativo. Projeto em evolução. | Next.js, TypeScript, Prisma, PostgreSQL |
-| [Image Uploader](https://github.com/Daniel-M30/image-uploader) · [API](https://github.com/Daniel-M30/image-uploader-api) | Interface de upload de imagens integrada a uma API de armazenamento em nuvem. | React, Node.js, Express, TypeScript |
-| [World Ranks](https://github.com/Daniel-M30/world-ranks) | Exploração de informações sobre países com pesquisa, filtros e integração com API. | React, TypeScript, TanStack Query |
-| [Coffee Listing](https://github.com/Daniel-M30/coffee-listing) | Catálogo de cafés com filtros de disponibilidade e dados externos. | React, TypeScript, Vite |
-
-Explore os repositórios para conhecer as implementações, tecnologias e documentação de cada projeto.
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub de Daniel Monteiro](https://github-stats-extended.vercel.app/api?username=Daniel-M30&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Contato
-
-Caso queira conversar sobre desenvolvimento web, integrações ou projetos:
-
-- **E-mail:** [dvalerio.monteiro@gmail.com](mailto:dvalerio.monteiro@gmail.com)
-- **LinkedIn:** [dvalerio-monteiro](https://www.linkedin.com/in/dvalerio-monteiro)
+Explore os repositórios fixados abaixo para conhecer o código e a documentação.
